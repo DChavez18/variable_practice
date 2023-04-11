@@ -13,3 +13,5 @@ tired_level = 5.5
 married = true
 single = false
 
+puts "Hello World"
+puts "Goodbye"
